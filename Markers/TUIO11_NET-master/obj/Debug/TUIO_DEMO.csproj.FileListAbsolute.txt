@@ -1,0 +1,29 @@
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.pdb
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.pdb
+E:\mozakra\HCI\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+E:\mozakra\HCI\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+E:\mozakra\HCI\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+E:\mozakra\HCI\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+E:\mozakra\HCI\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.SuggestedBindingRedirects.cache
+E:\mozakra\HCI\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+E:\mozakra\HCI\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+E:\mozakra\HCI\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+E:\mozakra\HCI\hci project\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+E:\mozakra\HCI\hci project\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+E:\mozakra\HCI\hci project\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+E:\mozakra\HCI\hci project\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+E:\mozakra\HCI\hci project\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.SuggestedBindingRedirects.cache
+E:\mozakra\HCI\hci project\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+E:\mozakra\HCI\hci project\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+E:\mozakra\HCI\hci project\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\dell\Desktop\markers\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
